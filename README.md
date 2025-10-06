@@ -1,8 +1,8 @@
 ### Hi, I'm Patryk 👋
 
 Here are some facts about me:
-- 🔭 I’m currently working on [Saleor](https://github.com/saleor)
-- 💬 Ask me about anything related to Typescript or programming in general, engineering management, building products
+- 🔭 I’m currently working as contractor via [Devopsbay](https://github.com/devopsbay)
+- 💬 Ask me about anything related to Typescript/Go, Architecture, AWS, engineering in general or building products
 - 📫 How to reach me: use my [Linkedin](https://www.linkedin.com/in/patryk-andrzejewski/)
 - ⚡ Fun fact: I love traveling 🌎 and being active (cycling)
 
@@ -19,4 +19,4 @@ I develop myself also in the area of engineering management, thus I lead teams g
 
 
 ##### 💻 Specialisation
-Everything related to Typescript, including the front-end and the backend. Additionally, I'm able to code in any programming language if that is needed and solve the problem. Apart from programming, I lead and mentor teams acting as engineering manager.
+Everything related to Typescript, including the front-end and the backend, including AWS or overall architecture. I'm able to code in any programming language if that is needed and solve the problem. Apart from programming, I lead and mentor teams acting as engineering manager.
