@@ -19,4 +19,4 @@ I develop myself also in the area of engineering management, thus I lead teams g
 
 
 ##### 💻 Specialisation
-Everything related to Typescript, including the front-end and the backend, including AWS or overall architecture. I'm able to code in any programming language if that is needed and solve the problem. Apart from programming, I lead and mentor teams acting as engineering manager.
+Everything related to Typescript, including AWS or overall architecture. I'm able to code in any programming language if that is needed and solve the problem. Apart from programming, I lead and mentor teams acting as engineering manager.
